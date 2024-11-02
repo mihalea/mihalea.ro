@@ -77,7 +77,7 @@ const StyledNav = styled.nav`
         position: relative;
         z-index: 1;
         svg {
-          fill: var(--text-primary);
+          fill: var(--text-heading);
           user-select: none;
           @media (prefers-reduced-motion: no-preference) {
             transition: var(--transition);
