@@ -4,6 +4,7 @@ title: 'Halcyon Theme'
 cover: './halcyon.png'
 github: 'https://github.com/bchiang7/halcyon-site'
 external: 'https://halcyon-theme.netlify.com/'
+cta: 'google.com'
 tech:
   - VS Code
   - Sublime Text
